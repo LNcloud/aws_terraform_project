@@ -66,8 +66,8 @@ This project demonstrates how to create an AWS infrastructure using Terraform. T
 ### **1. Clone the Repository**
 Clone this repository to your local machine:
 ```bash
-git clone <repository-url>
-cd <repository-folder>
+git clone https://github.com/LNcloud/aws_terraform_project.git
+cd aws_terraform_project/
 ```
 
 ### **2. Configure Variables**
