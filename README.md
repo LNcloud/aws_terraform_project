@@ -25,7 +25,7 @@ This project demonstrates how to create an AWS infrastructure using Terraform. T
   - Associated with `availability_zone` from `var.subnet2_az`.
 
 ### **3. Internet Gateway**
-- Enables internet access for resources within the public subnets.
+- Enables internet access for resources within the  subnets.
 
 ### **4. Route Table**
 - Configures routes to direct internet-bound traffic through the Internet Gateway.
